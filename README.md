@@ -43,6 +43,6 @@ After installation a dialoge box will open to set the root password.
 
 Set the password as `root123` or anything you like and press OK. 
 
-Repeat the same Password again in the next dialouge box and press enter. 
+Repeat the same Password again in the next dialog box and press enter. 
 
 Installation completed! Now you are good to use MySQL on your system.
